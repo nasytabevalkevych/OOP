@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\obj\Debug\lab4_4.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\obj\Debug\lab4_4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\bin\Debug\lab4_4.exe.config
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\bin\Debug\lab4_4.exe
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\bin\Debug\lab4_4.pdb
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\obj\Debug\lab4_4.exe
+C:\Users\User\Documents\Универ\ОП лаби коды\lab4_4\lab4_4\obj\Debug\lab4_4.pdb

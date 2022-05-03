@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Универ\ОП лаби коды\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Универ\ОП лаби коды\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Универ\ОП лаби коды\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\User\Documents\Универ\ОП лаби коды\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\User\Documents\Универ\ОП лаби коды\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\User\Documents\Универ\ОП лаби коды\lab3\lab3\obj\Debug\lab3.pdb
